@@ -1,2 +1,2 @@
 #!/bin/bash
- " The path is '$PWD' "
+"echo $pwd"
