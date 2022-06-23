@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincnet:staff *
+sudo chown vincnet:staff *
