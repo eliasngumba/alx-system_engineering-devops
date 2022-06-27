@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta | cat -3
+head -10 iacta | cat -3
